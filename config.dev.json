@@ -17,30 +17,30 @@
     "ignoreCommand": []
   },
   "adminBot": [
+    "61560050885709",
     "61556609578687",
-    "",
     "",
     "",
     ""
   ],
   "GOD": [
-    "61556609578687",
-    ""
+    "61560050885709",
+    "61556609578687"
   ],
   "DEV": [
-    "61556609578687",
-    ""
+    "61560050885709",
+    "61556609578687"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𑁍︎𝑄𝑢𝑒𝑒𝑛𝑉1 𝐵𝑒𝑡𝑎",
-  "authorName": "𝙿𝚛𝚒𝚢𝚊𝚗𝚜𝚑𝚒 𝙺𝚊𝚞𝚛",
-  "authorFB": "https://www.facebook.com/PriyanshiKaurJi",
+  "nickNameBot": "[?]◦•●◉✿𝙇𝙤𝙧𝙙 𝙠𝙞𝙣𝙜 𝘽𝙤𝙩✿◉●•",
+  "authorName": "Lord King ",
+  "authorFB": "https://www.facebook.com/profile.php?id=61560050885709",
   "authorEmail": "dewanganpriya766@gmail.com",
-  "prefix": ".",
+  "prefix": "?",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
